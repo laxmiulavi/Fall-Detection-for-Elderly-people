@@ -58,9 +58,13 @@ ACC spikes up to 14g Tilt goes to ~90° afterward
 
 FINAL FALL THRESHOLD (Derived from data set)
 **** ACC > 6g + Tilt > 60° = TRUE FALL
+
 <img width="455" height="590" alt="image" src="https://github.com/user-attachments/assets/73c2e00f-b9a9-4d96-8b1b-a8fc22a60934" />
+
 <img width="791" height="597" alt="image" src="https://github.com/user-attachments/assets/13f15d7c-8987-414e-aab5-ec93ad60b4d5" />
+
 ![Uploading image.png…]()
+
 ![Uploading image.png…]()
 
 
